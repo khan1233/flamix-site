@@ -1,4 +1,1 @@
-# flamix-site
-# flemix-project
-# flemix-project
-# flamix-site
+Sample website responsive
